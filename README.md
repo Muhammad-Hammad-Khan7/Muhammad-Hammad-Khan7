@@ -35,7 +35,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hammad-Khan7&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hammad-Khan7&layout=compact&theme=tokyonight&hide=javascript,html,css,c,cpp,java&custom_title=Most%20Used%20Languages%20" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hammad-Khan7&layout=compact&theme=tokyonight&hide=javascript,html,css,c,cpp,java,Jupyter%20Notebook&custom_title=Most%20Used%20Languages%20" height="170"/>
 </p>
 
 ---
