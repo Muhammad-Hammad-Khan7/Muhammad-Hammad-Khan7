@@ -1,84 +1,47 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad Khan</h1>
-<h3 align="center">A passionate CS graduate and enthusiast in AI, Machine Learning, and NLP</h3>
+<h1 align="center">👋 Hi, I'm Muhammad Hammad Khan</h1>
+<h3 align="center">CS Graduate | AI & ML Developer | NLP Enthusiast</h3>
 
+---
+
+## 🚀 About Me
+- 🔭 Currently building projects in **AI, ML, and NLP**  
+- 🌱 Exploring **LangChain & Advanced Deep Learning**  
+- 💬 Ask me about **Python, AI, ML, NLP**  
+- 📫 Reach me at: **muhammadhammadkhan700@gmail.com**  
+
+---
+
+## 🛠 Tech Stack
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hammad-Khan7&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <!-- Programming & ML -->
+  <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/tensorflow.png" alt="TensorFlow"/>
+  <img src="https://img.icons8.com/color/96/000000/pandas.png" alt="Pandas"/>
+  <img src="https://img.icons8.com/color/96/000000/numpy.png" alt="NumPy"/>
+  
+  <!-- Databases -->
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" alt="MySQL"/>
+  
+  <!-- Tools & Platforms -->
+  <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <img src="https://img.icons8.com/color/96/000000/google-colab.png" alt="Google Colab"/>
+  <img src="https://img.icons8.com/color/96/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/96/000000/github.png" alt="GitHub"/>
 </p>
 
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Hammad-Khan7&theme=onedark" alt="github trophies" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hammad-Khan7&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hammad-Khan7&layout=compact&theme=tokyonight&hide=javascript,html,css,c,cpp,java&custom_title=Most%20Used%20Languages%20" height="170"/>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **LangChain, TensorFlow, and advanced NLP techniques**
-- 👨‍💻 All of my projects are available at: [GitHub](https://github.com/Muhammad-Hammad-Khan7)
-- 💬 Ask me about: **ML, NLP, or anything related to AI**
-- 📫 How to reach me: **muhammadhammadkhan700@gmail.com**
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1XngVvjCHwdAgkea4djaLy2icIyd5YS8W/view?usp=drive_link)
-- ⚡ Fun fact: **I think I'm very hardworking 😄**
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/hammad-khan7"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://kaggle.com/hammadk"><img src="https://img.icons8.com/fluency/96/000000/kaggle.png" alt="Kaggle"/></a>
 
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/hammad-khan7" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/hammadk" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/hammad.khan.official" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/itx_hammadi_ywr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@coderfromotherworld" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/hammad_dev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/hammaddev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Hammad-Khan7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hammad-Khan7&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="left">🚀 Most Used Tools & Languages</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
