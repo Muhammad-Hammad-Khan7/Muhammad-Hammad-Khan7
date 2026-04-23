@@ -33,7 +33,7 @@ Aug 2025 – Present
 - Improved model performance through training, evaluation, and optimization  
 
 **AI/ML Intern**  
-Blue Eagle Software House  
+Software Alliance  
 Jul 2024 – Sep 2024  
 
 - Developed machine learning models for predictive analytics  
