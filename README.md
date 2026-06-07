@@ -1,7 +1,7 @@
 <h1 align="center">Muhammad Hammad Khan</h1>
 
 <p align="center">
-AI/ML Developer • NLP & LLM Specialist
+AI Engineer • Agentic AI • LLMs • Computer Vision
 </p>
 
 <p align="center">
@@ -14,74 +14,88 @@ AI/ML Developer • NLP & LLM Specialist
 
 ## Professional Summary
 
-AI/ML Developer with professional experience building intelligent systems using Machine Learning, Deep Learning and Large Language Models (LLMs). Experienced in designing and deploying Retrieval-Augmented Generation (RAG) systems and  AI chatbots.
+AI Engineer with experience building intelligent systems using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), Computer Vision, and Deep Learning.
 
-Strong background in developing end-to-end ML solutions, including data preprocessing, model training, evaluation, and deployment.
+Experienced in developing AI chatbots, autonomous agents, semantic search systems, and real-time computer vision applications. Skilled in designing end-to-end AI solutions from data processing and model development to deployment and optimization.
 
 ---
 
 ## Professional Experience
 
-**Junior AI/ML Developer**  
-Software Alliance — Lahore, Pakistan  
-Aug 2025 – Present  
+**Junior AI/ML Developer**
+Software Alliance — Lahore, Pakistan
+Aug 2025 – Present
 
-- Developed and deployed machine learning models using Python, TensorFlow, and PyTorch  
-- Built LLM-powered chatbots using LangChain and Retrieval-Augmented Generation (RAG)  
-- Implemented vector database pipelines using FAISS and Chroma for semantic search  
-- Contributed to computer vision systems including pose estimation and real-time joint detection  
-- Improved model performance through training, evaluation, and optimization  
+* Developed and deployed AI/ML solutions using Python, PyTorch, and TensorFlow
+* Built Agentic AI and RAG-based applications using LangChain and LangGraph
+* Implemented vector database pipelines using FAISS and Chroma for semantic retrieval
+* Contributed to computer vision systems including tracking, pose estimation, and perception pipelines
+* Improved model performance through training, evaluation, and optimization
 
-**AI/ML Intern**  
-Software Alliance  
-Jul 2024 – Sep 2024  
+**AI/ML Intern**
+Software Alliance
+Jul 2024 – Sep 2024
 
-- Developed machine learning models for predictive analytics  
-- Performed data preprocessing, feature engineering, and model evaluation  
-- Improved model accuracy through optimization and experimentation  
+* Developed machine learning models for predictive analytics
+* Performed data preprocessing, feature engineering, and model evaluation
+* Improved model accuracy through optimization and experimentation
 
 ---
 
 ## Featured Projects
 
-**ALLAHUAllam — Islamic AI Knowledge Assistant**  
-- Built an AI chatbot using RAG architecture and LangChain  
-- Implemented semantic retrieval using FAISS vector database  
-- Developed NLP pipeline for domain-specific knowledge retrieval  
-- Delivered accurate and context-aware AI responses  
+**ALLAHUAllam — Islamic AI Knowledge Assistant**
 
-**Voice RAG Agent — AI Assistant for British School**  
-- Developed voice-enabled AI assistant using LangChain and Chroma  
-- Integrated speech recognition and text-to-speech functionality  
-- Built intelligent knowledge retrieval system using LLaMA-based models  
+* Developed an AI-driven Islamic Q&A system providing Islamic-based responses
+* Built a RAG pipeline using LangChain for precise context retrieval and semantic understanding
+* Designed NLP data pipelines for preprocessing, indexing, and retrieval of domain-specific Islamic content
 
-**Cashierless Retail System — Computer Vision Pipeline**  
-- Contributed to camera calibration and perception pipelines  
-- Implemented pose estimation and joint detection using MediaPipe  
-- Worked on stereo vision and multi-camera synchronization  
-- Enabled accurate 2D visualization and 3D pose reconstruction  
+**Technologies:** Python, LLMs, RAG, LangChain, LangGraph, Jina Embeddings, FAISS, Ollama, FastAPI
+
+---
+
+**Agentic AI Research Assistant**
+
+* Developed an autonomous AI agent capable of planning and executing multi-step tasks
+* Implemented tool-calling workflows, memory management, and reasoning-based decision making
+* Built intelligent retrieval pipelines for contextual information gathering and response generation
+
+**Technologies:** Python, LangGraph, LangChain, LLMs, ChromaDB, FastAPI, RAG, Prompt Engineering
+
+---
+
+**Real-Time Cashierless Retail System**
+
+* Developed a real-time cashierless retail system enabling multi-camera customer tracking and identity persistence
+* Built cross-camera identity matching using Person Re-Identification (TransReID) and BoT-SORT tracking
+* Designed product interaction detection using YOLOv8 pose estimation and wrist keypoint analysis
+
+**Technologies:** Python, PyTorch, OpenCV, YOLOv8, TransReID, BoT-SORT, Redis, Computer Vision
 
 ---
 
 ## Technical Skills
 
-**Programming**  
-Python  
+**Programming**
+Python
 
-**Machine Learning & Deep Learning**  
-TensorFlow, PyTorch, Scikit-learn, Model Training, Fine-Tuning  
+**Machine Learning & Deep Learning**
+PyTorch, TensorFlow, Scikit-learn, Model Training, Fine-Tuning
 
-**NLP & LLM Systems**  
-Transformers, Hugging Face, LangChain, Retrieval-Augmented Generation (RAG), FAISS, Chroma  
+**Generative AI & Agentic AI**
+LLMs, LangChain, LangGraph, Agentic AI, Multi-Agent Systems, Prompt Engineering, Tool Calling
 
-**Computer Vision**  
-OpenCV, MediaPipe, Pose Estimation, Stereo Vision, Camera Calibration  
+**RAG & Vector Databases**
+Retrieval-Augmented Generation (RAG), FAISS, ChromaDB, Jina Embeddings, HuggingFace Embeddings
 
-**Data Processing**  
-Pandas, NumPy, Data Preprocessing, Feature Engineering  
+**Computer Vision**
+OpenCV, YOLOv8, MediaPipe, Person Re-Identification, Multi-Object Tracking, Pose Estimation, Camera Calibration
 
-**Deployment**  
-FastAPI, REST APIs  
+**Data Processing**
+Pandas, NumPy, Data Preprocessing, Feature Engineering
+
+**Deployment**
+FastAPI, REST APIs, Redis, Docker
 
 ---
 
@@ -95,20 +109,20 @@ FastAPI, REST APIs
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hammad-Khan7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170"/>
 </p>
 
-
 ---
 
 ## Current Focus
 
-- Large Language Model (LLM) Applications  
-- Agentic AI  
-- Computer Vision   
-- Production-Ready AI Deployment  
+* Agentic AI & Multi-Agent Systems
+* Large Language Model (LLM) Applications
+* Computer Vision & Multi-Camera Tracking
+* Retrieval-Augmented Generation (RAG)
+* Production-Ready AI Systems
 
 ---
 
 ## Contact
 
-Email: muhammadhammadkhan700@gmail.com  
-LinkedIn: linkedin.com/in/hammad-khan7  
+Email: [muhammadhammadkhan700@gmail.com](mailto:muhammadhammadkhan700@gmail.com)
+LinkedIn: linkedin.com/in/hammad-khan7
 GitHub: github.com/Muhammad-Hammad-Khan7
