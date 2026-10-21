@@ -11,7 +11,7 @@ Specialized in **YOLOv8 · BoT-SORT · CLIP-ReID · TensorRT · Pose Estimation*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-View_Website-blue?style=for-the-badge)](https://muhammad-hammad-khan7.github.io/Portfolio/)
 [![Email](https://img.shields.io/badge/Email-hammad.ai.eng@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:hammad.ai.eng@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hammad-khan7)
 [![Location](https://img.shields.io/badge/Location-Lahore,_Pakistan-green?style=for-the-badge)](https://www.google.com/maps)
 
 </div>
@@ -94,7 +94,7 @@ Single-camera player & ball tracking
 ### 💼 Experience
 
 **Junior AI/ML Engineer — Computer Vision**  
-**Software Alliance** | Aug 2025 – Present · Lahore
+**Software Alliance** | Oct 2024 – Present · Lahore
 
 - Built production cashier-less retail Computer Vision system supporting up to 30 cameras  
 - Improved customer ID stability during occlusions & similar clothing using ReID + floor-plane constraints  
